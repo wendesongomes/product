@@ -7,6 +7,7 @@ Este projeto consiste em um sistema simples de cadastro e listagem de produtos, 
 - shadcn UI: Uma biblioteca de componentes UI para React.
 - react-hook-form: Uma biblioteca para gerenciamento de formulários em React.
 - zod: Uma biblioteca de validação de esquemas em TypeScript.
+- Tailwind CSS: Uma estrutura de design CSS utilitária para construir rapidamente interfaces de usuário.
 
  ### Formulário com os campos abaixo:
   - [x]  Nome do produto - campo de texto
