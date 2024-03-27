@@ -8,17 +8,15 @@ Este projeto consiste em um sistema simples de cadastro e listagem de produtos, 
 - react-hook-form: Uma biblioteca para gerenciamento de formulários em React.
 - zod: Uma biblioteca de validação de esquemas em TypeScript.
 
-𝐂𝐚𝐝𝐚𝐬𝐭𝐫𝐨:
+ ### Formulário com os campos abaixo:
+  - [x]  Nome do produto - campo de texto
+  - [x]  Descrição do produto - campo de texto
+  - [x]  Valor do produto - campo de valor
+  - [x]  Disponível para venda - campo com 2 opções: sim / não
 
-- Formulário com os campos abaixo:
-  [x] - Nome do produto - campo de texto
-  [x] - Descrição do produto - campo de texto
-  [x] - Valor do produto - campo de valor
-  [x] - Disponível para venda - campo com 2 opções: sim / não
+ ### Listagem:
 
-- 𝐋𝐢𝐬𝐭𝐚𝐠𝐞𝐦:
-
-[x] - Colunas da listagem: nome, valor
-[x] - Ordenação por valor do menor para o maior
-[x] - Quando cadastrar um novo produto é para abrir a listagem automaticamente
-[x] - Deve existir um botão para cadastrar um novo produto a partir da listagem
+ - [x]  Colunas da listagem: nome, valor
+ - [x]  Ordenação por valor do menor para o maior
+ - [x]  Quando cadastrar um novo produto é para abrir a listagem automaticamente
+ - [x]  Deve existir um botão para cadastrar um novo produto a partir da listagem
