@@ -20,3 +20,7 @@ Este projeto consiste em um sistema simples de cadastro e listagem de produtos, 
  - [x]  Ordenação por valor do menor para o maior
  - [x]  Quando cadastrar um novo produto é para abrir a listagem automaticamente
  - [x]  Deve existir um botão para cadastrar um novo produto a partir da listagem
+
+### Design
+
+![Screenshot_2](https://github.com/wendesongomes/product/assets/82889172/40c057bc-ca49-46c1-88c9-d7ab3916a069)
